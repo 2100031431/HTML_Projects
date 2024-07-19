@@ -1,4 +1,5 @@
-# HTML_Projects - project-01
+# HTML_Projects 
+# Project-01
 # Basic Web Page
 
 This project demonstrates a basic web page using HTML and CSS with routing, a search bar, and a form containing login and sign-up buttons.
@@ -16,3 +17,22 @@ This project demonstrates a basic web page using HTML and CSS with routing, a se
 
 - `index.html`: Main HTML file
 - `styles.css`: CSS file for styling
+
+# Project - 02
+# Responsive Candidate Profiles
+
+This project showcases a web page that displays profiles of candidates as cards, focusing on designing responsive cards using HTML and CSS.
+
+## Features Learned
+
+- ![Stylesheet](https://img.icons8.com/ios-filled/50/000000/css-file.png) **Including stylesheets in the link tag**
+- ![Import](https://img.icons8.com/ios-filled/50/000000/import.png) **Importing URLs in CSS like `@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');`**
+- ![Calc](https://img.icons8.com/ios-filled/50/000000/calculate.png) **Using `calc()` to determine the values of CSS dynamically**
+- ![Responsive](https://img.icons8.com/ios-filled/50/000000/responsive.png) **How to make the page responsive**
+- ![Viewports](https://img.icons8.com/ios-filled/50/000000/viewport.png) **Used different viewports like 710 pixels or less, 1045 pixels**
+
+## Project Structure
+
+- `index.html`: Main HTML file
+- `styles.css`: CSS file for styling
+
