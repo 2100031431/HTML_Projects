@@ -1,6 +1,7 @@
 # HTML_Projects 
-# Project-01
-# Basic Web Page
+**Project-01**  **Basic Web Page**
+
+
 
 This project demonstrates a basic web page using HTML and CSS with routing, a search bar, and a form containing login and sign-up buttons.
 
@@ -18,8 +19,8 @@ This project demonstrates a basic web page using HTML and CSS with routing, a se
 - `index.html`: Main HTML file
 - `styles.css`: CSS file for styling
 
-# Project - 02
-# Responsive Candidate Profiles
+ **Project - 02**
+ **Responsive Candidate Profiles**
 
 This project showcases a web page that displays profiles of candidates as cards, focusing on designing responsive cards using HTML and CSS.
 
@@ -36,8 +37,8 @@ This project showcases a web page that displays profiles of candidates as cards,
 - `index.html`: Main HTML file
 - `styles.css`: CSS file for styling
 
-# Project - 03
-# Job Application Form
+**Project - 03**
+ **Job Application Form**
 ## Features Learned
 1) Html : lable, input, select tag, options tag, textarea, button
 2) css : grid, grid-template-columns, flex, flex-direction, outline-colour
